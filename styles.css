@@ -1,0 +1,19 @@
+.seccion {
+    background-color: rgb(212, 164, 164);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 7px;
+    }
+
+    .parrafo {
+        background-color: white;
+        padding: 1rem;
+        border-radius: 10px;
+        box-shadow: 5px 5px;
+      
+    }
+
+    .parrafo.dragging {
+        opacity: 0.3;
+    }
+
